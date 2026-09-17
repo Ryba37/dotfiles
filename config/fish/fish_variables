@@ -2,4 +2,4 @@
 # VERSION: 3.0
 SETUVAR HOMEBREW_NO_ANALYTICS:1
 SETUVAR HOMEBREW_NO_AUTO_UPDATE:1
-SETUVAR fish_user_paths:/opt/homebrew/opt/rustup/bin\x1e/opt/homebrew/opt/openjdk\x4025/bin
+SETUVAR fish_user_paths:/Users/matvii/\x2ecargo/bin\x1e/opt/homebrew/opt/rustup/bin\x1e/opt/homebrew/opt/openjdk\x4025/bin
