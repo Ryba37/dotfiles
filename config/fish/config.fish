@@ -23,4 +23,6 @@ function fish_command_not_found
     echo "$argv[1]? never heard about it."
 end
 
+fnm env --use-on-cd --shell fish | source
+
 starship init fish | source
